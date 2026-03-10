@@ -5,10 +5,7 @@
 
 ## Warum dieser Prompt so aufgebaut ist
 - Testet architektonische Tiefe
-- Prüft, ob das LLM Trade-offs erkennt
-- Prüft, ob das LLM abstrahieren kann
 
 ## Erwartetes Verhalten
 - präzise Sprache
 - Architektur-Patterns
-- klare I/O-Modelle
