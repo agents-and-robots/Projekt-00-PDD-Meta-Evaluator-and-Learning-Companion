@@ -5,6 +5,17 @@
 
 ## Warum dieser Prompt so aufgebaut ist
 - Testet technische Grundverständnisvermittlung
+
+## Erwartetes Verhalten
+- klare Begriffe
+- Schritt-für-Schritt
+# Explain Like I'm a Junior Developer
+
+## Prompt
+"Erkläre mir dieses Projekt auf Junior-Developer-Level."
+
+## Warum dieser Prompt so aufgebaut ist
+- Testet technische Grundverständnisvermittlung
 - Prüft, ob das LLM Schritt-für-Schritt erklären kann
 
 ## Erwartetes Verhalten
