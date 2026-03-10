@@ -1,17 +1,18 @@
-# PDD Meta Evaluator & Learning Companion (Offline, CPU-only)
+# PDD Meta Evaluator & Mainstream Prompt Library
 
-Dieses Meta-Repository dient als zentraler Hub zur Bewertung, Analyse und didaktischen Aufbereitung
-der ersten 8 PDD-Projekte.
+Dieses Repository ist die zentrale Prompt‑, Analyse‑ und Bewertungsbibliothek für die ersten 8 PDD‑Projekte.
 
 Es enthält:
-- Basis-Prompts zur LLM-Analyse
-- Didaktische Prompts (10 Jahre, Junior, Senior)
-- Drift-Analyse-Prompts
-- Halluzinations-Check-Prompts
-- Projekt-Start-Prompts
-- Dokumentation, warum jeder Prompt so aufgebaut ist
-- Evaluationslogik (Baseline)
-- Tests für die Prompts
+- eine Mainstream Prompt Library
+- wissenschaftlich motivierte Metriken
+- Drift‑ und Halluzinations‑Analyse
+- didaktische Erklärungs‑Prompts (10 Jahre, Junior, Senior)
+- Background‑Story‑Prompts
+- Projekt‑Start‑ und Projekt‑Analyse‑Prompts
+- Evaluationsmodule
+- Tests
+
+Dieses Repository ist das methodische Fundament der PDD‑Serie.
 
 Dieses Repository generiert selbst **keine** Prompts, sondern stellt sie bereit.
 
