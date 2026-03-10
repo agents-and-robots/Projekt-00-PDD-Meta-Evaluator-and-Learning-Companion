@@ -1,3 +1,35 @@
+# LLM Instructions – PDD Meta Evaluator & Mainstream Prompt Library
+
+Dieses Repository stellt Basis-Prompts bereit, um die ersten 8 PDD-Projekte zu analysieren, zu bewerten, zu erklären und zu verbessern.
+
+Es generiert selbst keine Prompts, sondern stellt sie bereit.
+
+## Ordnerstruktur
+
+/prompts  
+    /analysis  
+    /didactic  
+    /meta  
+
+/docs  
+    prompt_design_principles.md  
+    metrics.md  
+    architecture.md  
+
+/src  
+    loader.py  
+    evaluator.py  
+    metrics.py  
+    drift_detector.py  
+    hallucination_detector.py  
+    agent.py  
+
+/tests  
+    test_prompts.md  
+    test_evaluator.md  
+    test_metrics.md  
+    test_drift_detector.md  
+    test_hallucination_detector.md
 # LLM Instructions – PDD Meta Evaluator & Learning Companion (Offline)
 
 Diese Datei definiert alles, was ein LLM benötigt, um dieses Meta-Repository vollständig zu verstehen
