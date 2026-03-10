@@ -1,6 +1,16 @@
 # Analogy Prompt
 
 ## Prompt
+"Erkläre dieses Projekt anhand einer einzigen starken Analogie."
+
+## Warum dieser Prompt so aufgebaut ist
+- Analogien reduzieren Komplexität
+
+## Erwartetes Verhalten
+- eine klare Analogie
+# Analogy Prompt
+
+## Prompt
 "Erkläre dieses Projekt anhand einer einzigen starken Analogie, die ein Anfänger sofort versteht."
 
 ## Warum dieser Prompt so aufgebaut ist
