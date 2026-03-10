@@ -5,6 +5,18 @@
 
 ## Warum dieser Prompt so aufgebaut ist
 - Testet didaktische Fähigkeiten
+- Prüft Vereinfachungskompetenz
+
+## Erwartetes Verhalten
+- einfache Sprache
+- Analogien
+# Explain Like I'm 10
+
+## Prompt
+"Erkläre mir dieses Projekt so, als wäre ich 10 Jahre alt."
+
+## Warum dieser Prompt so aufgebaut ist
+- Testet didaktische Fähigkeiten
 - Prüft, ob das LLM technische Inhalte vereinfachen kann
 - Erkennt Überforderung oder Halluzinationen
 
